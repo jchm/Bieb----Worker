@@ -1,0 +1,17 @@
+{
+  "name": "Bieb",
+  "subdomain": "jchm.bieb",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.0.1-16",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "yql": "0.4.8",
+    "cron": "1.0.1",
+    "time": "0.8.3"
+  }
+}
